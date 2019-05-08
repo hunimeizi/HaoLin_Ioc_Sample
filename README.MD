@@ -21,18 +21,18 @@
    * 依赖注入框架，用来映射依赖，管理对象创建和生存周期（DI架构）
 
 ## 开发者的诟病
-<img  src="https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/Screenshot_6.0.gif"/>
+<img  src="https://github.com/hunimeizi/HaoLin_Ioc_Sample/blob/master/raw/goubing.png"/>
 
 ## 实际用法
-<img  src="https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/Screenshot_6.0.gif"/>
+<img  src="https://github.com/hunimeizi/HaoLin_Ioc_Sample/blob/master/raw/shijiyongfa.png"/>
 
 
 ## 反射 （Reflect）
-<img  src="https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/Screenshot_6.0.gif"/>
+<img  src="https://github.com/hunimeizi/HaoLin_Ioc_Sample/blob/master/raw/fanshe.png"/>
 
 
 ## 代理 （Proxy）
-<img  src="https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/Screenshot_6.0.gif"/>
+<img  src="https://github.com/hunimeizi/HaoLin_Ioc_Sample/blob/master/raw/daili.png"/>
 
 
 
